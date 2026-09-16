@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce fork propose un parcours documentaire francophone : [voir docs/fr](./docs/fr/).
+
 # PoolTogether V4 Periphery Contracts
 
 ![Fork](https://github.com/pooltogether/v4-periphery/actions/workflows/fork.yml/badge.svg)
